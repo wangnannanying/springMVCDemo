@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69f1adba-fe39-48ea-9498-faab1010e306" name="Default Changelist" comment="" />
+    <list default="true" id="69f1adba-fe39-48ea-9498-faab1010e306" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -14,8 +25,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\Maven\Repository" />
         <option name="mavenHome" value="D:/Program Files/Maven/apache-maven-3.6.3" />
-        <option name="userSettingsFile" value="D:\Program Files\Maven\apache-maven-3.6.3\conf\settings-langyonghe.xml" />
+        <option name="userSettingsFile" value="D:\Program Files\Maven\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -27,8 +39,13 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
   <component name="ProjectId" id="1mg40sFficSwbQS9J0KHBnBBVcF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -37,6 +54,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Github Repos\springMVCDemo\src\main\java\com\soecode\lyf\service" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -50,6 +72,97 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.BookServiceImplTest.testAppoint">
+    <configuration name="AppointmentDaoTest.testInsertAppointment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springMVCDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soecode.lyf.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.soecode.lyf.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.soecode.lyf.dao.AppointmentDaoTest" />
+      <option name="METHOD_NAME" value="testInsertAppointment" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppointmentDaoTest.testQueryByKeyWithBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springMVCDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soecode.lyf.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.soecode.lyf.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.soecode.lyf.dao.AppointmentDaoTest" />
+      <option name="METHOD_NAME" value="testQueryByKeyWithBook" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookDaoTest.testQueryAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springMVCDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soecode.lyf.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.soecode.lyf.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.soecode.lyf.dao.BookDaoTest" />
+      <option name="METHOD_NAME" value="testQueryAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookDaoTest.testQueryById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springMVCDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soecode.lyf.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.soecode.lyf.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.soecode.lyf.dao.BookDaoTest" />
+      <option name="METHOD_NAME" value="testQueryById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookServiceImplTest.testAppoint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springMVCDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soecode.lyf.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.soecode.lyf.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.soecode.lyf.service.impl.BookServiceImplTest" />
+      <option name="METHOD_NAME" value="testAppoint" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookServiceImplTest.testAppoint" />
+        <item itemvalue="JUnit.BookDaoTest.testQueryAll" />
+        <item itemvalue="JUnit.AppointmentDaoTest.testQueryByKeyWithBook" />
+        <item itemvalue="JUnit.AppointmentDaoTest.testInsertAppointment" />
+        <item itemvalue="JUnit.BookDaoTest.testQueryById" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -62,6 +175,10 @@
       <updated>1609901679952</updated>
       <workItem from="1609901683510" duration="513000" />
       <workItem from="1609902226588" duration="1019000" />
+      <workItem from="1610962008155" duration="6479000" />
+      <workItem from="1611037436308" duration="7043000" />
+      <workItem from="1611113729517" duration="564000" />
+      <workItem from="1611366811389" duration="9175000" />
     </task>
     <servers />
   </component>
@@ -73,7 +190,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
